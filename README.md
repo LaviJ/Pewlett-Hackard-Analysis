@@ -1,5 +1,5 @@
 # Pewlett-Hackard-Analysis
-Analysis for Pewlett Hackard to plan a retirement package and understand when and how thwy need to fill up the vacant positions.
+Analysis for Pewlett Hackard to plan a retirement package and understand when and how they need to fill up the vacant positions.
 
 ## 1. Overview of the analysis: Explain the purpose of this analysis.
 This analysis is done for Pewlett-Hackard, which is a large company boasting several thousand employees and its been around for a long time. Hence the baby boomers at the company begin to retire at a rapid rate. 	This analysis will help the company to 
